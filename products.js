@@ -5,7 +5,7 @@ initStore([
     description: 'Explore the Wizarding World like never before in this open-world action RPG set in the 1800s.',
     price: 69.99,
     discountPrice: 54.99,
-    image: 'assets/images/service-1.jpg',
+    image: 'images/service-1.jpg',
   },
   {
     id: 1,
@@ -13,7 +13,7 @@ initStore([
     description: 'Master the art of racing with photorealistic visuals, realistic driving physics, and hundreds of cars.',
     price: 59.99,
     discountPrice: 49.99,
-    image: 'assets/images/service-2.jpg',
+    image: 'images/service-2.jpg',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ initStore([
     description: 'A psychological horror thriller that blurs the lines between reality and nightmare.',
     price: 69.99,
     discountPrice: 59.99,
-    image: 'assets/images/service-3.jpg',
+    image: 'images/service-3.jpg',
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ initStore([
     description: 'Experience a dark fantasy epic with cinematic combat and an emotional story.',
     price: 69.99,
     discountPrice: 59.99,
-    image: 'assets/images/service-4.jpg',
+    image: 'images/service-4.jpg',
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ initStore([
     description: 'A deep role-playing experience rooted in Dungeons & Dragons with turn-based combat.',
     price: 59.99,
     discountPrice: 49.99,
-    image: 'assets/images/service-5.jpg',
+    image: 'images/service-5.jpg',
   },
   {
     id: 5,
@@ -45,6 +45,6 @@ initStore([
     description: 'Swing across New York as Peter Parker and Miles Morales in this high-action superhero sequel.',
     price: 69.99,
     discountPrice: 59.99,
-    image: 'assets/images/service-6.jpg',
+    image: 'images/service-6.jpg',
   },
 ]);
